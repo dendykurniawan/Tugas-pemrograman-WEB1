@@ -1,0 +1,27 @@
+h2{
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+    
+}
+
+p{
+    font-family: initial;
+    font-size: 5px;
+    font-weight: bold;
+    line-height: 20px;
+    color: white;
+
+}
+
+table{
+    margin-top: 50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+body {
+   
+    background-image: url(temaweb.jpg);
+}
